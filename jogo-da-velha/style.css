@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background-color: rgb(17, 14, 14);
+    color: white;
 }
 
 h1 {
@@ -21,7 +22,7 @@ h1 {
     cursor: pointer;
 }
 
-.jogador, .vencedor {
+.jogador-selecionado, .vencedor {
     font-size: 38px;
     margin-top: 10px;
     color: rgb(180, 200, 255);
